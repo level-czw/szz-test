@@ -4,10 +4,7 @@ public class Main {
         System.out.println(a.replace('[', '{').replace(']', '}'));
 		int x=10;
 		int y=20;
-<<<<<<< HEAD
 		int ha=40;
-=======
 		int z=30;
->>>>>>> anotherBranch
     }
 }
