@@ -6,5 +6,8 @@ public class Main {
         System.out.println(a.replace('[', '{').replace(']', '}'));
 		int ha=40;
 		int z=20;
+        int x=0;
+        int y=10;
+        int z=20;
     }
 }
