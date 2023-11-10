@@ -9,5 +9,6 @@ public class Main {
 		int y=20;
 		int oo=30;
 		？？？？？？？？？？？？？？？
+		wdnmd
     }
 }
