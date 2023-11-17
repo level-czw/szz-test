@@ -4,8 +4,7 @@ void print_(char* s){
 }
 int main()
 {
-   // printf() 中字符串需要引号
    printf("Hello, World!");
-   print_("wdnmd")
+   print_("wdnmd");
    return 0;
 }
