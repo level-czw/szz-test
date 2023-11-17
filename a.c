@@ -1,4 +1,5 @@
 int main(){
 	printf();
-	char* a="1234567890";
+	char* a="123456
+	7890";
 }
