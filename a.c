@@ -1,10 +1,7 @@
 #include <stdio.h>
-void print_(char* s){
-	printf(s);
-}
 int main()
 {
-   printf("Hello, World!");
-   print_("wdnmd");
+	int a=1;
+	printf(a);
    return 0;
 }
