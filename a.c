@@ -1,5 +1,7 @@
-int main(){
-	printf();
-	char* a="123456
-	7890";
+#include <stdio.h>
+int main()
+{
+   // printf() 中字符串需要引号
+   printf("Hello, World!");
+   return 0;
 }
